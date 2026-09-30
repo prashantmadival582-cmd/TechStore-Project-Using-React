@@ -18,7 +18,7 @@ function Footer() {
       ========================= */}
       <div className="footer-newsletter">
         <p className="footer-kicker">NEWSLETTER</p>
-        <h2>Stay Updated</h2>
+        <h2>Stay Updated with us</h2>
         <p>
           Get exclusive offers, product launches, and the latest technology updates.
         </p>
